@@ -5,10 +5,10 @@ Build and learn common UI patterns using rows, columns, stacks, and more.
 Perfect for mastering Flutter UI basics.
 
 Steps to use the app:
-Step 1: Clone the repository
-Step 2: Run ```flutter pub get```
-Step 3: Run ```flutter run```
-Step 4: Explore the layout screens and widgets
+1. Clone the repository
+2. Run ```flutter pub get```
+3. Run ```flutter run```
+4. Explore the layout screens and widgets
 
 ### Master Flutter Layouts
 
