@@ -1,35 +1,19 @@
-# **The Layout Practice App**
+### The Layout Practice App
 
-A structured Flutter project focused on mastering layout fundamentals.
-This app helps beginners understand Row, Column, Expanded, alignment, spacing, and the core building blocks needed to create responsive Flutter UI.
+Practice Flutter layouts the right way.
+Build and learn common UI patterns using rows, columns, stacks, and more.
+Perfect for mastering Flutter UI basics.
 
----
+Steps to use the app:
+Step 1: Clone the repository
+Step 2: Run ```flutter pub get```
+Step 3: Run ```flutter run```
+Step 4: Explore the layout screens and widgets
 
-## **How to Download and Use**
+### Master Flutter Layouts
 
-### **1. Clone this repository**
+This mini class teaches essential UI layout techniques in Flutter.
+Build confidence designing responsive and flexible interfaces.
+Great for beginners and those upgrading UI skills.
 
-```bash
-git clone https://github.com/TheFlutterSensei/The-Layout-Practice-App.git
-cd The-Layout-Practice-App
-```
-
-### **2. Install dependencies**
-
-```bash
-flutter pub get
-```
-
-### **3. Run the app**
-
-```bash
-flutter run
-```
-
----
-
-## **Where to Learn?**
-
-### **Full Learning Path & Tutorials**
-
-[https://fluttersensei.com](https://fluttersensei.com)
+https://courses.fluttersensei.com/l/flutter-layout-app
